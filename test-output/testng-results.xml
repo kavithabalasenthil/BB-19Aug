@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="758" started-at="2016-08-19T13:31:52Z" finished-at="2016-08-19T13:31:53Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Scenario_Search.test_InvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:scenario_Component.Scenario_Search@a3ffec]" name="test_InvalidSearch" class="scenario_Component.Scenario_Search"/>
+        <method signature="Scenario_Search.test_InvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:scenario_Component.Scenario_Search@11053e1]" name="test_InvalidSearch" class="scenario_Component.Scenario_Search"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Testd1" duration-ms="658" started-at="2016-08-19T13:31:52Z" finished-at="2016-08-19T13:31:53Z">
+    </test> <!-- Testd1 -->
+    <test name="Testd2" duration-ms="10" started-at="2016-08-19T13:31:53Z" finished-at="2016-08-19T13:31:53Z">
+    </test> <!-- Testd2 -->
+  </suite> <!-- Suite -->
+</testng-results>
